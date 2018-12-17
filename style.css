@@ -118,7 +118,7 @@ font-family: 'Open Sans', sans-serif;
     color: white; /* ADD THIS LINE */
     
     /* Background styles */
-    background-image:linear-gradient(rgba(0, 0, 0, .7),rgba(0, 0, 0, 0.5)), url(photo.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, .7),rgba(0, 0, 0, 0.5)), url(photo-1.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
